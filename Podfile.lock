@@ -1,0 +1,16 @@
+PODS:
+  - RSSelectionMenu (7.1.2)
+
+DEPENDENCIES:
+  - RSSelectionMenu
+
+SPEC REPOS:
+  trunk:
+    - RSSelectionMenu
+
+SPEC CHECKSUMS:
+  RSSelectionMenu: f803d0936e074b2fdac2c41bf1d0a5b0c7fdc3e1
+
+PODFILE CHECKSUM: c5a3a265ebc554c03bde4cd5b8e1eb71d014fb86
+
+COCOAPODS: 1.9.3
